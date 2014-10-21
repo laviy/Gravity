@@ -4,7 +4,7 @@ public class Gravity {
    public static void main (String [] args){
       Scanner scnr = new Scanner(System.in);
       double G = 6.673e-11;
-      double M      = 5.98e24;
+      double M = 5.98e24;
       double accelGravity = 0.0;
       double distCenter   = 0.0;
       
